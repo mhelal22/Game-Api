@@ -43,13 +43,13 @@ You can now access the server at http://localhost
 - To built Cache run - composer cache-all
 - To clear and built cache run - composer cc
 
-##APIs
+## APIs
 
-1- api/challenge/create  => to create new challenge
-1- api/challenge/getAll  => to get all challenges
-1- api/challenge/{id}  => to one challenge
-1- api/challenge/{id}/submitVideo  => to submit new video
-1- api/challenge/video/{video_id}/rate  => to vote 
+- api/challenge/create  => to create new challenge
+- api/challenge/getAll  => to get all challenges
+- api/challenge/{id}  => to one challenge
+- api/challenge/{id}/submitVideo  => to submit new video
+- api/challenge/video/{video_id}/rate  => to vote 
 
 
 ## License
